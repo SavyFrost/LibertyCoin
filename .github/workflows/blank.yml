@@ -1,4 +1,9 @@
-#  <!DOCTYPE html>
+on: 
+ push:
+   branches:
+    - main
+    - release/*
+    # <!DOCTYPE html>
 #  <html lang="en">
 #  <head>
 #      <meta charset="UTF-8">
